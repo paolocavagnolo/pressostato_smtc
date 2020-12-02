@@ -1,6 +1,5 @@
 # pressostato_smtc
 
-![](https://github.com/paolocavagnolo/pressostato_smtc/blob/main/imgs/IMG_20201201_151754.jpg)
 ![](https://github.com/paolocavagnolo/pressostato_smtc/blob/main/imgs/IMG_20201201_151801.jpg)
 ![](https://github.com/paolocavagnolo/pressostato_smtc/blob/main/imgs/IMG_20201201_151754.jpg)
 ![](https://github.com/paolocavagnolo/pressostato_smtc/blob/main/imgs/IMG_20201201_151810.jpg)
