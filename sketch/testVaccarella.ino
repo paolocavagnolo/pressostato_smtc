@@ -3,10 +3,10 @@
 #include "RunningAverage.h"
 #include "Keyboard.h"
 
-
 RunningAverage myRA(250);
 
 AMS AMSa(5915, 0x28,0,100);
+//AMS AMSa(5915, 0x28,-100,100);
 
 Grove_LED_Bar bar(8, 9, 1, LED_BAR_10);
 //Grove_LED_Bar bar(7, 6, 1, LED_BAR_10);
